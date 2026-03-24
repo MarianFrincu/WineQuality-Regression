@@ -1,8 +1,8 @@
-# WineQuality-LinearRegression
+# WineQuality-Regression
 
 ## Description
 
-This project implements two variants of a simple linear regression model using a Multi-Layer Perceptron (MLP). The goal is to predict wine quality scores based on their caracteristics.
+This project implements two variants of a simple regression model using a Multi-Layer Perceptron (MLP). The goal is to predict wine quality scores based on their caracteristics.
 
 ## Technologies
 
